@@ -1,7 +1,5 @@
 # CDS6344-SMC-Project-Repo
 This project contains source code for SMC project.  The dataset is provided so that it can be run locally. The code can also be run in Google Colab and if it were to run in Colab, the code to download dataset is provided.
-<br>
-Google Colab link: https://colab.research.google.com/drive/1BQnY-nHE2nbCb4Hj8353u5UllMcKWdNb?usp=sharing
 
 This project is contributed by:
 | Member | Name | ID 
